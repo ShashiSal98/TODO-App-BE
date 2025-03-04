@@ -14,16 +14,21 @@ Backend service for TODO App, built with Java | Spring Boot
 ## 🛠️ Tech Stack
 - **Language:** Java 
 - **Framework:** Spring Boot
-- **Database:** MySQL 
 - **Security:** JWT Authentication, Spring Security
 - **Tools:** IntelliJ IDEA, Git, Docker (optional)
+- **Database:** MySQL
+
+1. **Create the Database** section has been added before configuring the database in the `application.properties` file.
+2. **MySQL** commands for creating the `todo_db` database.
+
+This will guide users to create the required database before running the backend application.
 
 ## 📌 Prerequisites
 Ensure you have the following installed:
 - Java 23.0.2
 - Maven / Gradle
 - MySQL 
-- Git
+- GitHub
 
 ## 🔧 Setup & Installation
 1. **Clone the repository**
